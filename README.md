@@ -30,7 +30,7 @@ A Python CLI tool that scans a folder, organises files into subfolders by type, 
  How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/3li_Kassim/File-Organizer.git
+   git clone https://github.com/3li-Kassim/File-Organizer.git
 
 2.Open the folder:
 cd File-Organizer
